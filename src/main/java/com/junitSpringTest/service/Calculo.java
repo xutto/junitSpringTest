@@ -17,5 +17,6 @@ public class Calculo {
     public int pollo2(int a, int b){
 
         return a + b;
+
     }
 }
