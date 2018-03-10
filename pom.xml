@@ -9,10 +9,10 @@
 
     <scm>
         <connection>
-            scm:git:https://github.com/xutto/junitSpringTest.git
+            scm:git:https://xutto:Git25012501@github.com/xutto/project.git
         </connection>
         <developerConnection>
-            scm:git:https://github.com/xutto/junitSpringTest.git
+            scm:git:https://xutto:Git25012501@github.com/xutto/project.git
         </developerConnection>
         <url>
             https://github.com/xutto/junitSpringTest.git
