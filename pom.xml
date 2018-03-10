@@ -9,10 +9,10 @@
 
     <scm>
         <connection>
-            scm:git:https://github.com/xutto/junitSpringTest.git
+            scm:git:https://xutto:Git25012501@github.com/xutto/junitSpringTest.git
         </connection>
         <developerConnection>
-            scm:git:https://github.com/xutto/junitSpringTest.git
+            scm:git:https://xutto:Git25012501@github.com/xutto/junitSpringTest.git
         </developerConnection>
         <url>
             https://github.com/xutto/junitSpringTest.git
@@ -22,6 +22,7 @@
 
     <distributionManagement>
         <!-- use the following if you're not using a release version. -->
+
         <repository>
             <id>macadamianstore-ftp</id>
             <name>Repositorio de produccion</name>
