@@ -25,13 +25,13 @@
         <repository>
             <id>macadamianstore-ftp</id>
             <name>Repositorio de produccion</name>
-            <url>ftp://192.168.1.50/MacadamianStore/war/snapshots</url>
+            <url>ftp://192.168.1.50/MacadamianStore/war/releases</url>
         </repository>
         <!-- use the following if you ARE using a snapshot version. -->
         <snapshotRepository>
             <id>macadamianstore-ftp</id>
             <name>Repositorio de desarrollo</name>
-            <url>ftp://192.168.1.50/MacadamianStore/war/releases</url>
+            <url>ftp://192.168.1.50/MacadamianStore/war/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
