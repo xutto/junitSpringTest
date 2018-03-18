@@ -3,7 +3,7 @@
     <groupId>com.springapp</groupId>
     <artifactId>junitSpringTest</artifactId>
     <packaging>war</packaging>
-    <version>1.0.010-SNAPSHOT</version>
+    <version>1.0.010</version>
     <name>junitSpringTest</name>
 
     <scm>
