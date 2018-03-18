@@ -47,7 +47,6 @@ public class AppTests {
     @Test
     public void testPollo() throws Exception {
 
-
         TestCase.assertEquals("la suma de 2 + 2 tiene que ser 4", "4", calculo.pollo(2, 2));
         TestCase.assertEquals("la suma de 3 + 3 tiene que ser 6", 6, calculo.pollo2(3,3));
 
